@@ -30,10 +30,10 @@ const CONFIG = {
       src: "assets/images/photo4.jpg",
       label: "Prithvi"
     },
-    {
-      src: "assets/images/photo5.jpg",
-      label: "Prithvi"
-    },
+    // {
+    //   src: "assets/images/photo5.jpg",
+    //   label: "Prithvi"
+    // },
     // Add more photos below — just copy the block above
     // {
     //   src: "assets/images/photo2.jpg",
